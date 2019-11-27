@@ -1,8 +1,8 @@
 {
   "main": "./lib/spellchecker.js",
-  "name": "spellchecker",
+  "name": "talkspirit-spellchecker",
   "description": "Bindings to native spellchecker",
-  "version": "3.7.0",
+  "version": "3.8.0-beta.1",
   "license": "MIT",
   "repository": {
     "type": "git",
